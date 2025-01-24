@@ -11,7 +11,7 @@ const Dashboard = () => {
  
   return (
     <SafeAreaView className="flex-1 bg-white">
-      <ScrollView className="p-4 space-y-3">
+      <ScrollView className="p-4 space-y-4">
         {/* Greeting Card */}
         <Greeting />
 
