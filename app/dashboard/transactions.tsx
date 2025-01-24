@@ -46,7 +46,7 @@ const Transactions = () => {
                     <View className="mb-8">
                         <View className="flex-row items-center justify-between mb-6">
                             <View className="flex-1">
-                                <Text style={{ fontFamily: 'Poppins-Regular', color: '#8327b2' }} className="text-4xl font-bold">Transactions</Text>
+                                <Text style={{ fontFamily: 'Poppins-Regular', color: '#8327b2' }} className="text-4xl font-bold">Transac</Text>
                                 <Text style={{ fontFamily: 'Poppins-Regular' }} className="text-gray-500 mt-2">View and manage your bookings and reservations</Text>
                             </View>
                             <View className="bg-blue-100 p-4 rounded-2xl">
